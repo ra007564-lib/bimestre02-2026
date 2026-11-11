@@ -1,6 +1,6 @@
 -- =====================================================================
 -- TRABALHO 02 - FUNCTIONS (PL/pgSQL)
--- Banco: fabrica de doces (continuacao do script1.sql)
+-- Banco: fabrica de doces 
 -- Aluno: Willian de Freitas
 --
 -- Funcoes criadas:
