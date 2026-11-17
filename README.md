@@ -11,9 +11,11 @@ Repositório com os trabalhos da disciplina de Gestão de Banco de Dados.
 ```
 ra007564-lib/
 └── bimestre02-2026/
-    └── trabalho01/
-        ├── script_trabalho01.sql
-        └── diagrama_der.pdf
+    ├── diagrama_der.pdf
+    ├── funcoes.sql
+    ├── script1.sql
+    ├── script2.sql
+    └── README.md
 ```
 
 ## Trabalho 01 - Fábrica de Doces
